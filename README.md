@@ -1,0 +1,2 @@
+# information-website
+college magazine
